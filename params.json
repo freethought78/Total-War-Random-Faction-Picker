@@ -1,6 +1,0 @@
-{
-  "name": "Total War Random Faction Picker",
-  "tagline": "Let us pick the faction for your next game of Total War!",
-  "body": "Have you ever sat down to play a new campaign of your favorite flavor of Total War\r\nBut you just couldn't figure out what faction to choose?\r\n\r\nJust run the Random Faction Picker script and choose a game or mod from the Faction Lists\r\nIt will pick a random faction for you to play!\r\n\r\nYou can change the lists manually, they are just text files\r\nDon't leave any blank spaces\r\n\r\nIf you want to add or remove a game or mod to/from the faction lists its easy:\r\n\r\nGoogle the game or mod you want to add\r\nFind a list of factions\r\nCreate a new text file in the Faction Lists folder\r\nName it something descriptive\r\nNow you can use your new faction list!\r\n\r\nContribute your lists to our github project so others can use them also at:\r\n\r\nhttps://github.com/freethought78/Total-War-Random-Faction-Picker",
-  "note": "Don't delete this file! It's used internally to help with page regeneration."
-}
